@@ -1,0 +1,17 @@
+{
+  "name": "两人食光",
+  "short_name": "两人食光",
+  "description": "两人家庭智能排餐与采购清单",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffdf9",
+  "theme_color": "#fffdf9",
+  "icons": [
+    {
+      "src": "./pet-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
