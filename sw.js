@@ -1,4 +1,4 @@
-const CACHE='liang-ren-shi-guang-v3';
+const CACHE='liang-ren-shi-guang-v4';
 const BASE=new URL('./',self.registration.scope).pathname;
 const CORE=[BASE,`${BASE}manifest.webmanifest`,`${BASE}pet-avatar.png`];
 
